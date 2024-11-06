@@ -1,0 +1,15 @@
+/Users/desislavatopuzakova/Projects/TextProcessing/ReverseText_01/bin/Debug/net6.0/ReverseText_01
+/Users/desislavatopuzakova/Projects/TextProcessing/ReverseText_01/bin/Debug/net6.0/ReverseText_01.deps.json
+/Users/desislavatopuzakova/Projects/TextProcessing/ReverseText_01/bin/Debug/net6.0/ReverseText_01.runtimeconfig.json
+/Users/desislavatopuzakova/Projects/TextProcessing/ReverseText_01/bin/Debug/net6.0/ReverseText_01.dll
+/Users/desislavatopuzakova/Projects/TextProcessing/ReverseText_01/bin/Debug/net6.0/ReverseText_01.pdb
+/Users/desislavatopuzakova/Projects/TextProcessing/ReverseText_01/obj/Debug/net6.0/ReverseText_01.csproj.AssemblyReference.cache
+/Users/desislavatopuzakova/Projects/TextProcessing/ReverseText_01/obj/Debug/net6.0/ReverseText_01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/desislavatopuzakova/Projects/TextProcessing/ReverseText_01/obj/Debug/net6.0/ReverseText_01.AssemblyInfoInputs.cache
+/Users/desislavatopuzakova/Projects/TextProcessing/ReverseText_01/obj/Debug/net6.0/ReverseText_01.AssemblyInfo.cs
+/Users/desislavatopuzakova/Projects/TextProcessing/ReverseText_01/obj/Debug/net6.0/ReverseText_01.csproj.CoreCompileInputs.cache
+/Users/desislavatopuzakova/Projects/TextProcessing/ReverseText_01/obj/Debug/net6.0/ReverseText_01.dll
+/Users/desislavatopuzakova/Projects/TextProcessing/ReverseText_01/obj/Debug/net6.0/refint/ReverseText_01.dll
+/Users/desislavatopuzakova/Projects/TextProcessing/ReverseText_01/obj/Debug/net6.0/ReverseText_01.pdb
+/Users/desislavatopuzakova/Projects/TextProcessing/ReverseText_01/obj/Debug/net6.0/ReverseText_01.genruntimeconfig.cache
+/Users/desislavatopuzakova/Projects/TextProcessing/ReverseText_01/obj/Debug/net6.0/ref/ReverseText_01.dll

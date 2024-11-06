@@ -1,0 +1,15 @@
+/Users/desislavatopuzakova/Projects/StringManipulations/05-Digits-Letters-Others/bin/Debug/net6.0/05-Digits-Letters-Others
+/Users/desislavatopuzakova/Projects/StringManipulations/05-Digits-Letters-Others/bin/Debug/net6.0/05-Digits-Letters-Others.deps.json
+/Users/desislavatopuzakova/Projects/StringManipulations/05-Digits-Letters-Others/bin/Debug/net6.0/05-Digits-Letters-Others.runtimeconfig.json
+/Users/desislavatopuzakova/Projects/StringManipulations/05-Digits-Letters-Others/bin/Debug/net6.0/05-Digits-Letters-Others.dll
+/Users/desislavatopuzakova/Projects/StringManipulations/05-Digits-Letters-Others/bin/Debug/net6.0/05-Digits-Letters-Others.pdb
+/Users/desislavatopuzakova/Projects/StringManipulations/05-Digits-Letters-Others/obj/Debug/net6.0/05-Digits-Letters-Others.csproj.AssemblyReference.cache
+/Users/desislavatopuzakova/Projects/StringManipulations/05-Digits-Letters-Others/obj/Debug/net6.0/05-Digits-Letters-Others.GeneratedMSBuildEditorConfig.editorconfig
+/Users/desislavatopuzakova/Projects/StringManipulations/05-Digits-Letters-Others/obj/Debug/net6.0/05-Digits-Letters-Others.AssemblyInfoInputs.cache
+/Users/desislavatopuzakova/Projects/StringManipulations/05-Digits-Letters-Others/obj/Debug/net6.0/05-Digits-Letters-Others.AssemblyInfo.cs
+/Users/desislavatopuzakova/Projects/StringManipulations/05-Digits-Letters-Others/obj/Debug/net6.0/05-Digits-Letters-Others.csproj.CoreCompileInputs.cache
+/Users/desislavatopuzakova/Projects/StringManipulations/05-Digits-Letters-Others/obj/Debug/net6.0/05-Digits-Letters-Others.dll
+/Users/desislavatopuzakova/Projects/StringManipulations/05-Digits-Letters-Others/obj/Debug/net6.0/refint/05-Digits-Letters-Others.dll
+/Users/desislavatopuzakova/Projects/StringManipulations/05-Digits-Letters-Others/obj/Debug/net6.0/05-Digits-Letters-Others.pdb
+/Users/desislavatopuzakova/Projects/StringManipulations/05-Digits-Letters-Others/obj/Debug/net6.0/05-Digits-Letters-Others.genruntimeconfig.cache
+/Users/desislavatopuzakova/Projects/StringManipulations/05-Digits-Letters-Others/obj/Debug/net6.0/ref/05-Digits-Letters-Others.dll

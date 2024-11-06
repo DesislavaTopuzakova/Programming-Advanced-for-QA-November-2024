@@ -1,0 +1,15 @@
+/Users/desislavatopuzakova/Projects/TextProcessing/Substring_03/bin/Debug/net6.0/Substring_03
+/Users/desislavatopuzakova/Projects/TextProcessing/Substring_03/bin/Debug/net6.0/Substring_03.deps.json
+/Users/desislavatopuzakova/Projects/TextProcessing/Substring_03/bin/Debug/net6.0/Substring_03.runtimeconfig.json
+/Users/desislavatopuzakova/Projects/TextProcessing/Substring_03/bin/Debug/net6.0/Substring_03.dll
+/Users/desislavatopuzakova/Projects/TextProcessing/Substring_03/bin/Debug/net6.0/Substring_03.pdb
+/Users/desislavatopuzakova/Projects/TextProcessing/Substring_03/obj/Debug/net6.0/Substring_03.csproj.AssemblyReference.cache
+/Users/desislavatopuzakova/Projects/TextProcessing/Substring_03/obj/Debug/net6.0/Substring_03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/desislavatopuzakova/Projects/TextProcessing/Substring_03/obj/Debug/net6.0/Substring_03.AssemblyInfoInputs.cache
+/Users/desislavatopuzakova/Projects/TextProcessing/Substring_03/obj/Debug/net6.0/Substring_03.AssemblyInfo.cs
+/Users/desislavatopuzakova/Projects/TextProcessing/Substring_03/obj/Debug/net6.0/Substring_03.csproj.CoreCompileInputs.cache
+/Users/desislavatopuzakova/Projects/TextProcessing/Substring_03/obj/Debug/net6.0/Substring_03.dll
+/Users/desislavatopuzakova/Projects/TextProcessing/Substring_03/obj/Debug/net6.0/refint/Substring_03.dll
+/Users/desislavatopuzakova/Projects/TextProcessing/Substring_03/obj/Debug/net6.0/Substring_03.pdb
+/Users/desislavatopuzakova/Projects/TextProcessing/Substring_03/obj/Debug/net6.0/Substring_03.genruntimeconfig.cache
+/Users/desislavatopuzakova/Projects/TextProcessing/Substring_03/obj/Debug/net6.0/ref/Substring_03.dll

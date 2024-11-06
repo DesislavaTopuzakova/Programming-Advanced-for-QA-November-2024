@@ -1,0 +1,15 @@
+/Users/desislavatopuzakova/Projects/TextProcessing/DemoStringvsStringBuilder/bin/Debug/net6.0/DemoStringvsStringBuilder
+/Users/desislavatopuzakova/Projects/TextProcessing/DemoStringvsStringBuilder/bin/Debug/net6.0/DemoStringvsStringBuilder.deps.json
+/Users/desislavatopuzakova/Projects/TextProcessing/DemoStringvsStringBuilder/bin/Debug/net6.0/DemoStringvsStringBuilder.runtimeconfig.json
+/Users/desislavatopuzakova/Projects/TextProcessing/DemoStringvsStringBuilder/bin/Debug/net6.0/DemoStringvsStringBuilder.dll
+/Users/desislavatopuzakova/Projects/TextProcessing/DemoStringvsStringBuilder/bin/Debug/net6.0/DemoStringvsStringBuilder.pdb
+/Users/desislavatopuzakova/Projects/TextProcessing/DemoStringvsStringBuilder/obj/Debug/net6.0/DemoStringvsStringBuilder.csproj.AssemblyReference.cache
+/Users/desislavatopuzakova/Projects/TextProcessing/DemoStringvsStringBuilder/obj/Debug/net6.0/DemoStringvsStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/desislavatopuzakova/Projects/TextProcessing/DemoStringvsStringBuilder/obj/Debug/net6.0/DemoStringvsStringBuilder.AssemblyInfoInputs.cache
+/Users/desislavatopuzakova/Projects/TextProcessing/DemoStringvsStringBuilder/obj/Debug/net6.0/DemoStringvsStringBuilder.AssemblyInfo.cs
+/Users/desislavatopuzakova/Projects/TextProcessing/DemoStringvsStringBuilder/obj/Debug/net6.0/DemoStringvsStringBuilder.csproj.CoreCompileInputs.cache
+/Users/desislavatopuzakova/Projects/TextProcessing/DemoStringvsStringBuilder/obj/Debug/net6.0/DemoStringvsStringBuilder.dll
+/Users/desislavatopuzakova/Projects/TextProcessing/DemoStringvsStringBuilder/obj/Debug/net6.0/refint/DemoStringvsStringBuilder.dll
+/Users/desislavatopuzakova/Projects/TextProcessing/DemoStringvsStringBuilder/obj/Debug/net6.0/DemoStringvsStringBuilder.pdb
+/Users/desislavatopuzakova/Projects/TextProcessing/DemoStringvsStringBuilder/obj/Debug/net6.0/DemoStringvsStringBuilder.genruntimeconfig.cache
+/Users/desislavatopuzakova/Projects/TextProcessing/DemoStringvsStringBuilder/obj/Debug/net6.0/ref/DemoStringvsStringBuilder.dll

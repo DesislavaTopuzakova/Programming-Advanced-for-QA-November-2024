@@ -1,0 +1,15 @@
+/Users/desislavatopuzakova/Projects/TextProcessing/RepeatStrings_02/bin/Debug/net6.0/RepeatStrings_02
+/Users/desislavatopuzakova/Projects/TextProcessing/RepeatStrings_02/bin/Debug/net6.0/RepeatStrings_02.deps.json
+/Users/desislavatopuzakova/Projects/TextProcessing/RepeatStrings_02/bin/Debug/net6.0/RepeatStrings_02.runtimeconfig.json
+/Users/desislavatopuzakova/Projects/TextProcessing/RepeatStrings_02/bin/Debug/net6.0/RepeatStrings_02.dll
+/Users/desislavatopuzakova/Projects/TextProcessing/RepeatStrings_02/bin/Debug/net6.0/RepeatStrings_02.pdb
+/Users/desislavatopuzakova/Projects/TextProcessing/RepeatStrings_02/obj/Debug/net6.0/RepeatStrings_02.csproj.AssemblyReference.cache
+/Users/desislavatopuzakova/Projects/TextProcessing/RepeatStrings_02/obj/Debug/net6.0/RepeatStrings_02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/desislavatopuzakova/Projects/TextProcessing/RepeatStrings_02/obj/Debug/net6.0/RepeatStrings_02.AssemblyInfoInputs.cache
+/Users/desislavatopuzakova/Projects/TextProcessing/RepeatStrings_02/obj/Debug/net6.0/RepeatStrings_02.AssemblyInfo.cs
+/Users/desislavatopuzakova/Projects/TextProcessing/RepeatStrings_02/obj/Debug/net6.0/RepeatStrings_02.csproj.CoreCompileInputs.cache
+/Users/desislavatopuzakova/Projects/TextProcessing/RepeatStrings_02/obj/Debug/net6.0/RepeatStrings_02.dll
+/Users/desislavatopuzakova/Projects/TextProcessing/RepeatStrings_02/obj/Debug/net6.0/refint/RepeatStrings_02.dll
+/Users/desislavatopuzakova/Projects/TextProcessing/RepeatStrings_02/obj/Debug/net6.0/RepeatStrings_02.pdb
+/Users/desislavatopuzakova/Projects/TextProcessing/RepeatStrings_02/obj/Debug/net6.0/RepeatStrings_02.genruntimeconfig.cache
+/Users/desislavatopuzakova/Projects/TextProcessing/RepeatStrings_02/obj/Debug/net6.0/ref/RepeatStrings_02.dll
