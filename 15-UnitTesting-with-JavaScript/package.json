@@ -1,0 +1,17 @@
+{
+  "name": "demotest",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Demo for modules in JS",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha *.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "5.1.2",
+    "mocha": "11.0.1"
+  }
+}
