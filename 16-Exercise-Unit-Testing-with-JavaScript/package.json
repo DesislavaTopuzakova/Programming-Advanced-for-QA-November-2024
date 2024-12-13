@@ -1,0 +1,17 @@
+{
+  "name": "16-exercise-unit-testing-with-javascript",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Exercise - Init testing with javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "Diyan Apostolov",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^5.1.2",
+    "mocha": "^11.0.1"
+  }
+}
